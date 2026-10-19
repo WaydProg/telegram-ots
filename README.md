@@ -164,4 +164,4 @@ FloodWait – бот не обрабатывает ограничения Telegr
 
 📬 Контакты
 
-Telegram: [для связи](https://t.me/CTPAX_MYC0P0B)
+Портфолио: [для связи](https://waydprog-portfolio.web.app/)
